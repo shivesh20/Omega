@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "pes-2020-5000-myclub-coins",
   storageBucket: "pes-2020-5000-myclub-coins.appspot.com",
   messagingSenderId: "866180921841",
-  appId: "1:866180921841:web:cd4e7696b36a765b42ec50"
+  appId: "1:866180921841:web:cd4e7696b36a765b42ec50",
   measurementId: "G-JW4JS73YE3"
 };
 
